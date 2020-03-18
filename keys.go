@@ -6,4 +6,3 @@ const (
 
 func CalcWalletPassKey() []byte {
 	return []byte(keyWalletPassKey)
-}
